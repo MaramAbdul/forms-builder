@@ -1,0 +1,38 @@
+{
+  "form": {
+    "untitled_form": "無題のフォーム",
+    "no_description": "説明はありません。",
+    "answer_placeholder": "あなたの回答",
+    "no_questions": "このフォームには質問がありません。",
+    "submission_success": "回答が正常に送信されました！",
+    "submit_answers": "回答を送信",
+    "my_forms": "マイフォーム",
+    "create_new_form": "新しいフォームを作成",
+    "share": "共有",
+    "edit": "編集",
+    "no_forms_available": "利用可能なフォームはありません。新しいフォームを作成してください！",
+    "link_copied": "公開リンクがクリップボードにコピーされました！",
+    "edit_title": "🛠️ フォームを編集",
+    "view_title": "📋 フォームを表示",
+    "form_title": "フォームのタイトル",
+    "form_description": "フォームの説明",
+    "question_placeholder": "質問テキスト",
+    "questions": "📝 質問",
+    "answer_type": {
+      "text": "✍️ テキスト",
+      "multiple_choice": "🔘 複数選択",
+      "checkbox": "☑️ チェックボックス"
+    },
+    "answer_text_placeholder": "ここに回答を入力",
+    "option_placeholder": "オプションテキスト",
+    "remove_option": "✖️ オプションを削除",
+    "add_option": "➕ オプションを追加",
+    "remove_question": "🗑️ 質問を削除",
+    "add_question": "➕ 質問を追加",
+    "save_changes": "✅ 変更を保存",
+    "back_to_forms": "← フォーム一覧に戻る",
+    "form_saved": "✅ フォームが正常に保存されました！",
+    "available_forms": "利用可能なフォーム",
+    "create_new_form": "新しいフォームを作成"
+  }
+}

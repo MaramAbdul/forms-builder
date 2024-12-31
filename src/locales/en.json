@@ -1,0 +1,39 @@
+{
+  "form": {
+     "untitled_form": "Untitled Form",
+    "no_description": "No description available.",
+    "answer_placeholder": "Your Answer",
+    "no_questions": "No questions available in this form.",
+    "submission_success": "Your responses have been submitted successfully!",
+    "submit_answers": "Submit Answers",
+     "my_forms": "My Forms",
+    "create_new_form": "Create New Form",
+    "untitled_form": "Untitled Form",
+    "share": "Share",
+    "edit": "Edit",
+    "no_forms_available": "No forms available. Start by creating one!",
+    "link_copied": "Public link copied to clipboard!",
+    "edit_title": "🛠️ Edit Form",
+    "view_title": "📋 View Form",
+    "form_title": "Form Title",
+    "form_description": "Form Description",
+    "question_placeholder": "Question Text",
+    "questions": "📝 Questions",
+    "answer_type": {
+      "text": "✍️ Text",
+      "multiple_choice": "🔘 Multiple Choice",
+      "checkbox": "☑️ Checkbox"
+    },
+    "answer_text_placeholder": "Answer here",
+    "option_placeholder": "Option Text",
+    "remove_option": "✖️ Remove",
+    "add_option": "➕ Add Option",
+    "remove_question": "🗑️ Remove Question",
+    "add_question": "➕ Add Question",
+    "save_changes": "✅ Save Changes",
+    "back_to_forms": "← Back to Forms",
+    "form_saved": "✅ Form saved successfully!",
+     "available_forms": "Available Forms",
+    "create_new_form": "Create New Form"
+  }
+}
